@@ -1,5 +1,5 @@
 # Projects
-Hi! I am Shivam, a third year undergraduate studying Computer Science at BITS Goa🌴\n
+Hi! I am Shivam, a third year undergraduate studying Computer Science at BITS Goa🌴
 This repo showcases the projects I have built so far in the following domains:
 
 # ML/Data Science Projects
